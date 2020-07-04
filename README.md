@@ -1,6 +1,6 @@
 Credit to
 # Django Twitter Clone by Redian Marku
-<a href="https://www.youtube.com/channel/UCO5WiowKFnEw17AOk008WOQ" target="_blank">Ready Dev</a>.
+<a href="https://www.youtube.com/watch?v=2tbDNMhQjLE&t=832s" target="_blank">Ready Dev</a>.
 
 ## Start Here
 
