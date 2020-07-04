@@ -1,4 +1,4 @@
-# Credit to
+Credit to
 # Django Twitter Clone by Redian Marku
 <a href="https://www.youtube.com/channel/UCO5WiowKFnEw17AOk008WOQ" target="_blank">Ready Dev</a>.
 
